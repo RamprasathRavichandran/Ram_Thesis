@@ -6,9 +6,9 @@ export const robots = [{
     },
     {
         id: 2,
-        name: 'Henry',
-        username: 'Henry',
-        email: 'Henry@gmail.com'
+        name: 'Walle',
+        username: 'Walle',
+        email: 'Walle@gmail.com'
     },
     {
         id: 3,
