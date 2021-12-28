@@ -1,0 +1,30 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\viewr\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js build
+
+PATH: 
+  C:\Users\viewr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\viewr\bin;C:\Python39\Scripts;C:\Python39;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Java\jdk-16\bin;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\viewr\AppData\Local\Microsoft\WindowsApps;C:\Users\viewr\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\viewr\.dotnet\tools;C:\Users\viewr\AppData\Local\Android\Sdk\platform-tools;C:\Users\viewr\AppData\Roaming\npm;C:\Users\viewr\AppData\Local\GitHubDesktop\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.17.5
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EISDIR: illegal operation on a directory, read
+
+npm manifest: 
+  {
+    "dependencies": {
+      "react": "^17.0.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
